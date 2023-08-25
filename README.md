@@ -1,5 +1,6 @@
 # Due to time constraints connect button is not working (since rainbow kit was not installing)
 Install and run the app by using : 
+
 npm i 
 
 npm start
